@@ -5,7 +5,8 @@
   "main": "noteTaker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "noteTaker.js"
+    "start": "noteTaker.js",
+    "build": "https://github.com/heroku/heroku-buildpack-nodejs#v170"
   },
   "author": "",
   "license": "ISC",
